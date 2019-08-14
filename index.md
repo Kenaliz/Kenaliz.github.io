@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## ยินดีต้อนรับทุกคน
 ## สวัสดีชาวโลก PTC Precision technology co.,LTD.
 You can use the [editor on GitHub](https://github.com/Kenaliz/Kenaliz.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
